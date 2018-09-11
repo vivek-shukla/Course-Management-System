@@ -1,5 +1,14 @@
 # Course-Management-System 
 
+In order to form a clear sketch of this project, here’s a brief introduction of the features and scope of Online Course Management System. This project consists of four modules which are inter-linked to each other. These modules are:
+•	Administrator Module
+•	Student Module
+•	Teacher Module
+•	Course Module
+Each of the above modules has certain specific task to perform. Administrator module is for controlling administrative works such as creating account for students and teachers, formation of curriculum and coding the subjects etc. So, Administrator Module can be considered as skeleton module on which other modules rely on.
+Student Module and Teacher Module have been designed for students and teachers to log in to the account created by administrator and share information. Students can register with application and submit their homework. Whereas, teachers can check students’ home works and assign grades for their work.
+
+
 To run this project install latest version of Python and Django 
 
 Open terminal
